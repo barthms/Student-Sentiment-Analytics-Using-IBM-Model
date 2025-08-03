@@ -4,7 +4,7 @@
 
 Banyak mahasiswa dan fresh graduate Indonesia mengungkapkan keresahan mereka di media sosial, terutama di Twitter. Mereka menghadapi kenyataan pahit setelah lulus: sulitnya mencari pekerjaan, tingginya biaya pendidikan, dan ketimpangan antara kuliah dan dunia industri. Curhatan ini mencerminkan krisis kepercayaan terhadap sistem pendidikan, ketenagakerjaan, dan kebijakan ekonomi.
 
-Melalui proyek ini, kami ingin menangkap **suara otentik generasi muda Indonesia** dan menganalisisnya secara sistematis menggunakan teknologi AI, khususnya **IBM Granite**. Hasilnya akan digunakan untuk menggali emosi, aspirasi, dan tantangan yang mereka alami, lalu menyajikannya dalam bentuk insight yang bermanfaat bagi pemerintah, universitas, dan dunia industri.
+Melalui proyek ini, Saya ingin menangkap **suara otentik generasi muda Indonesia** dan menganalisisnya secara sistematis menggunakan teknologi AI, khususnya **IBM Granite**. Hasilnya akan digunakan untuk menggali emosi, aspirasi, dan tantangan yang mereka alami, lalu menyajikannya dalam bentuk insight yang bermanfaat bagi pemerintah, universitas, dan dunia industri.
 
 ### 🎯 Tujuan Proyek
 
@@ -26,7 +26,7 @@ Melalui proyek ini, kami ingin menangkap **suara otentik generasi muda Indonesia
 
 * Scraping tweet menggunakan query spesifik seperti: "biaya kuliah", "fresh graduate cari kerja", "lulus tapi nganggur", "gaji fresh graduate", "#kaburajadulu".
 * Bahasa: Indonesia, Rentang waktu: Januari 2024 - sekarang
-* Total data yang dikumpulkan: **±1000 tweet**
+* Total data yang dikumpulkan: **±1300 tweet**
 
 ### 2. Preprocessing
 
